@@ -1,8 +1,11 @@
-# Live class from hitesh
+# Live-Project-Nine
 
-##a class about hosting your webpage for free
+# Assignment 9
 
-In this class we discussed about pushing to git and github. Also, we talked about pushing website to netlify, but you can also use versel.
+![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
+![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 
-[Vercel](https://vercel.com)
-![badge](https://img.shields.io/badge/Live%20Class-sunday-yellowgreen)
+![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
+![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--9-lightgrey)
+
+![name](https://img.shields.io/badge/Sana--Quazi-lightgrey)
